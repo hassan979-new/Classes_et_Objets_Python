@@ -26,25 +26,25 @@ Ce document regroupe plusieurs projets Python illustrant des concepts fondamenta
 ## 📂 Project Structure
 ````
 projets/
-├── CompteurPage/
+├── Exercice 1/
 │   ├── compteur_page.py
-│   └── test_compteur.py
-├── Article/
+│   └── test.py
+├── Exercice 2/
 │   ├── article.py
-│   └── test_article.py
-├── CarnetContact/
+│   └── enventaire.py
+├── Exercice 3/
 │   ├── contact.py
 │   ├── carnet.py
-│   └── test_carnet.py
-├── Cercle/
+│   └── test.py
+├── Exercice 4/
 │   ├── cercle.py
 │   └── test_cercle.py
-├── JournalTaches/
+├── Exercice 5/
 │   ├── journal.py
-│   └── test_journal.py
-├── Convertisseur/
+│   └── test.py
+├── Exercice 6/
 │   ├── convertisseur.py
-│   └── test_convertisseur.py
+│   └── test.py
 └── README.md
 ````
 
@@ -134,15 +134,19 @@ Méthode de classe :
 ## 🖥️ Example Execution
 
 
-### Séparer proprement une classe unique :
-
-### Mini-bibliothèque géométrique : 
-
-### Création d’une librairie statique (.a) ou partagée (.so) :
-
-### Classe template et fichier d’en-tête uniquement :
-
-
+### Compteur de visites de pages :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/fabe1dc3-2bae-472b-ad60-b010dcfcfa15" />
+### Gestion d’inventaire d’articles : 
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/ad346686-2d08-4246-bb31-00f2e12cc525" />
+### Carnet d’adresses minimal :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/434c9abe-87b5-4751-8c1d-3d208ff00d43" />
+### Calculatrice géométrique pour cercles :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/65492850-d6f0-4b4e-a972-78f7f7ac9f58" />
+### Journal de tâches avec gestion de contexte :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/b31bf202-05d5-4520-b091-511a9256dd3e" />
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/44906bd1-fe38-499f-9a49-046c30bac25b" />
+### Convertisseur de devises :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/bd718201-bb7a-4fb6-bbc3-9a36d57fb6a3" />
 ## 💡 Concepts Practiced
 
 - Attributs de classe vs d’instance
