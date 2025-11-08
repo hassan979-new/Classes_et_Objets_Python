@@ -10,4 +10,4 @@ for article in articles :
     print(article)
 
 total = sum(a.valeur_stock() for a in articles)
-print(f"Valeur d’inventaire : {total:.2f} €")
+print(f"Valeur d'inventaire : {total:.2f} €")
